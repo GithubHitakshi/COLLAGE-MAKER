@@ -1,0 +1,39 @@
+body{
+    background-size:cover ;
+}
+h1{
+    font-weight: 900;
+    font-style:oblique;
+    
+}
+h3{
+    color:red;
+}
+#imgtag{
+    height: 100px;
+    width: 100px;
+}
+#h3tag{
+    color: rebeccapurple;
+    font-weight:bold;
+}
+#result1, #result2 {
+    display:inline;
+}
+
+.copy_right_footer{
+    position:fixed;
+    text-align: center;
+    bottom: 0%;
+    width: 100%;
+    color:black;
+    font-style: initial;
+}
+img:hover{
+    border-radius: 100px;
+    border: 4%;
+}
+
+
+
+
